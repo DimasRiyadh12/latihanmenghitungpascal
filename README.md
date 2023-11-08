@@ -1,9 +1,9 @@
-| Nama       | Faris Syahluthfi               |
-| ---------- | ------------------------------ |
-| NIM        | 312010029                      |
-| Kelas      | TI.20.RPL-1                    |
-| Mata Kuliah| Pemrograman Visual             |
-| Dosen      | Agung Nugroho, S.Kom., M.Kom.  |
+| Nama       | Dimas Riyadh Alfajri               |
+| ---------- | ---------------------------------- |
+| NIM        | 312010029                          |
+| Kelas      | TI.20.RPL.-1                       |
+| Mata Kuliah| Pemrograman Visual                 |
+| Dosen      | Agung Nugroho, S.Kom., M.Kom       |
 
 
 ## Latihan
