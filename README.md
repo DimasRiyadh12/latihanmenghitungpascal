@@ -1,10 +1,8 @@
-| Nama       | Dimas Riyadh Alfajri               |
-|------------ | ----------------------------------|
-| NIM        | 312010029                          |
-| Kelas      | TI.20.RPL.-1                       |
-| Mata Kuliah| Pemrograman Visual                 |
-| Dosen      | Agung Nugroho, S.Kom., M.Kom       |
-
+| Nama      | Dimas Riyadh Alfajri |
+| ----------- | ----------- |
+| NIM     | 312010029       |
+| Kelas   | TI.20.A.RPL.-1        |
+| Matkul     | Pemrograman Visual  |
 
 ## Latihan
 # 1. Program Menghitung Gaji Karyawan
@@ -138,4 +136,4 @@ end.
 
 <li>Tampilan program nya</li></br>
 
-![img](img/ss.png)
+![img](foto/ss.png)
