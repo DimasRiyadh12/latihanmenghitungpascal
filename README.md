@@ -138,4 +138,4 @@ end.
 
 <li>Tampilan program nya</li></br>
 
-![Alt text](ss.png)
+![img](img/ss.png)
