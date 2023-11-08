@@ -10,7 +10,7 @@
 # 1. Program Menghitung Gaji Karyawan
 
 
-li>Source Code program nya</li></br>
+<li>Source Code program nya</li></br>
 
 ```pascal
 
@@ -136,6 +136,6 @@ end.
 ```
 
 
-li>Tampilan program nya</li></br>
+<li>Tampilan program nya</li></br>
 
 ![Alt text](ss.png))
