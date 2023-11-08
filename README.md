@@ -1,5 +1,5 @@
 | Nama       | Dimas Riyadh Alfajri               |
-| ---------- | ---------------------------------- |
+|------------ | ----------------------------------|
 | NIM        | 312010029                          |
 | Kelas      | TI.20.RPL.-1                       |
 | Mata Kuliah| Pemrograman Visual                 |
@@ -138,4 +138,4 @@ end.
 
 <li>Tampilan program nya</li></br>
 
-![Alt text](ss.png))
+![Alt text](ss.png)
